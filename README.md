@@ -1,21 +1,10 @@
-# vue-markdown-viewer
+## User Story
 
-> A Vue.js project
+User Story: I can type GitHub-flavored Markdown into a text area.
 
-## Build Setup
+User Story: I can see a preview of the output of my markdown that is updated as I type.
 
-``` bash
-# install dependencies
-npm install
+demo link: (http://vuemarkeddown.surge.sh/)
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Video Walkthrough
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
